@@ -22,3 +22,7 @@ slprj/
 # Local packaging
 *.zip
 recording_small.mp4
+
+# The editable deck is not distributed; the repo carries the PDF
+*.pptx
+*.key

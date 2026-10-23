@@ -23,7 +23,7 @@ running this kit in MATLAB R2024a.
 git clone https://github.com/Jonasjcmh/AI_for_Media_Edition.git
 ```
 or download the ZIP from GitHub (Code → Download ZIP).
-The talk itself is in `slides/Responsible_AI_for_Research_Media.pptx` (with speaker notes and the demo video),
+The talk itself is in `slides/Responsible_AI_for_Research_Media.pdf` (read-only PDF),
 and the 63 s demo of Claude controlling Premiere is `06_screen_video/claude_controls_premiere_recording.mp4`.
 
 ## Two ways to follow it
