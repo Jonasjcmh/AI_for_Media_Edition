@@ -1,0 +1,6 @@
+Marker timecodes (HH:MM:SS:FF at 30 fps)
+00:00:00:10  LED sync
+00:00:01:08  impact 1
+00:00:01:27  impact 2
+00:00:02:10  impact 3
+00:00:02:20  impact 4
