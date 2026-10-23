@@ -1,4 +1,4 @@
-# Responsible AI for experimental media: hands-on tutorial
+# AI for Experimental Media Edition: hands-on tutorial
 
 A guided example for colleagues: use **Claude + MATLAB** to turn an experiment into a
 publication figure and a synchronised video, then annotate it in **Premiere Pro**,
@@ -23,7 +23,7 @@ running this kit in MATLAB R2024a.
 git clone https://github.com/Jonasjcmh/AI_for_Media_Edition.git
 ```
 or download the ZIP from GitHub (Code → Download ZIP).
-The talk itself is in `slides/Responsible_AI_for_Research_Media.pdf` (read-only PDF),
+The talk itself is in `slides/AI_for_Experimental_Media_Edition.pdf` (read-only PDF),
 and the 63 s demo of Claude controlling Premiere is `06_screen_video/claude_controls_premiere_recording.mp4`.
 
 ## Two ways to follow it
